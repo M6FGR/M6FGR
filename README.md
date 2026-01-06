@@ -1,5 +1,3 @@
-yo
-
 <table>
   <tr>
     <td>

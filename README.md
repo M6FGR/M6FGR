@@ -7,4 +7,4 @@
 </table>
 _
 
-- 🔭 I’m currently working on [EFA](https://epicfightarena.com/)
+- 🔭 I’m currently working on [Epic Fight Arena](https://epicfightarena.com/)
